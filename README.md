@@ -20,5 +20,3 @@ PHP 8 · MySQL · HTML5/CSS3 · JavaScript
 ## Démo
 🔗 [Live Demo](https://clientsbase.infinityfreeapp.com)
 
-## Auteur
-Stage chez [Ultra Soft SARL](https://www.ultrasoftsarl.com)
