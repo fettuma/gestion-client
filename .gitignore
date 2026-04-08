@@ -1,0 +1,25 @@
+images/
+simplephp/
+*.ico
+*.sql
+config.php
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+
+# Vendor (if composer used)
+vendor/
+
+# Environment files
+.env
+
+# Uploaded files
+uploads/
